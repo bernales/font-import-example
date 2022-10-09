@@ -9,4 +9,4 @@ Examples on how to import google fonts into an HTML form:
 https://stackoverflow.com/questions/14676613/how-to-import-google-web-font-in-css-file
 https://www.w3docs.com/snippets/css/how-to-import-google-fonts-in-css-file.html
 
-![Picture of the example](url)
+![Picture of the example](https://github.com/bernales/font-import-example/blob/main/font-import-example.png)
